@@ -8,7 +8,7 @@
 [![Node](https://github.com/treeverse/lakeFS/workflows/Node/badge.svg?branch=master)](https://github.com/treeverse/lakeFS/actions?query=workflow%3ANode+branch%3Amaster++)
 
 
-## What is lakeFS
+## What is lakeFS❤✔
 
 lakeFS is an open source layer that delivers resilience and manageability to object-storage based data lakes.
 
@@ -24,7 +24,7 @@ lakeFS supports AWS S3 or Google Cloud Storage as its underlying storage service
 For more information see the [Official Documentation](https://docs.lakefs.io).
 
 
-## Capabilities
+## Capabilities✔
 
 **Development Environment for Data**
 * **Experimentation** - try tools, upgrade versions and evaluate code changes in isolation. 
@@ -41,7 +41,7 @@ For more information see the [Official Documentation](https://docs.lakefs.io).
   - Testing of production data before exposing it to users / consumers.
   - Testing of intermediate results in your DAG to avoid cascading quality issues.
 
-## Getting Started
+## Getting Started✔
 
 #### Docker (MacOS, Linux)
 
@@ -75,13 +75,13 @@ Alternatively, you can download the lakeFS binaries and run them directly.
 Binaries are available at [https://github.com/treeverse/lakeFS/releases](https://github.com/treeverse/lakeFS/releases).
 
 
-#### Setting up a repository
+#### Setting up a repository🏍
 
 Please follow the [Guide to Get Started](https://docs.lakefs.io/quickstart/repository) to set up your local lakeFS installation.
 
 For more detailed information on how to set up lakeFS, please visit [the documentation](https://docs.lakefs.io).
 
-## Community
+## Community🙌
 
 Keep up to date and get lakeFS support via:
 
@@ -91,12 +91,12 @@ Keep up to date and get lakeFS support via:
 - [Contact us](https://lakefs.io/contact-us/) (for anything)
 
 
-## More information
+## More information👍
 
 - [lakeFS documentation](https://docs.lakefs.io)
 - If you would like to contribute, check out our [contributing guide](https://docs.lakefs.io/contributing).
 
-## Licensing
+## Licensing✌
 
 lakeFS is completely free and open source and licensed under the [Apache 2.0 License](https://www.apache.org/licenses/LICENSE-2.0).
 
